@@ -1,0 +1,38 @@
+const products = [
+    { 
+        id: 1, 
+        name: 'Premium T-Shirt', 
+        price: 1500, 
+        image: '/images/tshirt.avif' 
+    },
+    { 
+        id: 2, 
+        name: 'Denim Jeans', 
+        price: 2500, 
+        image: '/images/jeans.avif' 
+    },
+    { 
+        id: 3, 
+        name: 'Sports Sneakers', 
+        price: 3500, 
+        image: '/images/sneaker.jpg' 
+    },
+    { 
+        id: 4, 
+        name: 'Smart Watch', 
+        price: 4500, 
+        image: '/images/watch.jpg' 
+    },
+    { 
+        id: 5, 
+        name: 'Wireless Headphones', 
+        price: 3000, 
+        image: '/images/headphone.jpg' 
+    },
+    { 
+        id: 6, 
+        name: 'Backpack', 
+        price: 2000, 
+        image: '/images/bagpack.jpg' 
+    },
+];
